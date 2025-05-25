@@ -28,7 +28,7 @@ const Main = () => {
             <div className="buttons">
               <Link to="/contact" ><button>Contact Me</button></Link>
               <a href="mailto:siriguduru9@gmail.com?subject=Hiring%20Inquiry"  className="hide"><button>Hire Me</button></a>
-                <a href="/documents/resume.pdf" download="Siri Guduru resume"><button>Resume</button ></a>
+                <a href="https://siriguduru.github.io/my_portfolio/documents/resume.pdf" download="Siri Guduru resume"><button>Resume</button ></a>
             </div>
 
         <div className="main_img">
